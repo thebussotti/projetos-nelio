@@ -11,7 +11,7 @@ Inicio
       
       area <- pi * raio^2
       
-      escreval("AREA= ",)
+      escreval("AREA= ", area)
 
 
 Fimalgoritmo
