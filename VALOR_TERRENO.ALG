@@ -20,7 +20,7 @@ Inicio
       
       escreval("Area por metro quadrado do terreno: ", areaMetroQuadrado)
       escreval("Valor por metro quadrado do terreno: ", valorMetroQuadrado)
-      
+      //comentario
 
 
 Fimalgoritmo
